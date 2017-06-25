@@ -13,5 +13,17 @@
     * [工作中心](articles/form/3-/work_center.md)
     * [模板中心](articles/form/3-/template_center.md)
 * [产品常见问题](articles/form/4-/)
-    * [常见问题](articles/form/4-/question.md)
+    * [常见问题](articles/form/4-1/)
+    * [使用技巧](articles/form/4-2/)
+       * [如何使用金额控件](articles/form/4-2/kj_jine.md)
+       * [如何使用自动编码控件](articles/form/4-2/kj_zidongbianma.md)
+       * [如何使用审批意见控件](articles/form/4-2/kj_shenpiyijian.md)
+       * [如何使用关联控件](articles/form/4-2/kj_guanlian.md)
+       * [表单如何关联流程](articles/form/4-2/guanlianliucheng.md)
+       * [如何设置两个关联控件间的联动](articles/form/4-2/set_liandong.md)
+
+
+
+
+
 
