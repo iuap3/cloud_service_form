@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
 * [产品介绍](articles/form/1-/)
   * [概述](articles/form/1-/gai_shu.md)
   * [使用场景](articles/form/1-/scenario.md)
