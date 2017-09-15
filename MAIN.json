@@ -1,0 +1,32 @@
+{ 
+ "title": "云表单", 
+ "desc": "云表单是用友 iuap 企业互联网开放平台中的公有云服务，提供与表单相关的平台、应用、工具和服务，支
+
+持企业和开发者在移动互联网时代的业务或应用创新。使用云表单公有云服务，可以：所见即所得地创建无编码的表单
+
+应用；快速方便地采集真实有效的数据；内建企业级的审批与工作流；模型驱动的表单应用；集成或扩展企业现有业务
+
+系统；扩展你的SaaS应用。", 
+ "list": [ 
+ { 
+ "title": "快速入门", 
+ "link": "#/md-build/cloud_service_form/articles/form/2-/registration.md", 
+ "desc": "本文从用户注册开始，详解了表单的创建分享和数据收集过程" 
+ }, 
+ { 
+ "title": "表单中心", 
+ "link": "#/md-build/cloud_service_form/articles/form/3-/form_center.md", 
+ "desc": "讲解了表单的创建和管理" 
+ }, 
+ { 
+ "title": "工作中心", 
+ "link": "#/md-build/cloud_service_form/articles/form/3-/work_center.md", 
+ "desc": "工作中心以当前登陆人为中心，集中展现了我待办的任务、已完成的任务、抄送给我的和我填写的表单" 
+ }, 
+ { 
+ "title": "模板中心", 
+ "link": "#/md-build/cloud_service_form/articles/form/3-/template_center.md", 
+ "desc": "模板中心的界面内容分为模板分类、分类下所有模板和选中模板的运行时样式" 
+ } 
+ ] 
+ } 
